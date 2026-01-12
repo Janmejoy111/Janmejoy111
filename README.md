@@ -75,6 +75,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40">
+<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40">
 </td>
 
 <td align="right">
